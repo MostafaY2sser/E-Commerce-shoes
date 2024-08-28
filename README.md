@@ -5,7 +5,7 @@
 This is a modern and responsive web application for a Nike store. It showcases various Nike products with a sleek design, allowing users to browse through different collections and make purchases online. The app features an intuitive slider, a product gallery, and a smooth checkout process.
 
 ## Features
-- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **Responsive Design:** Optimized for both desktop and mobile devices
 - **Product Slider:** Displays featured products with prices and a direct link to purchase.
 - **Product Details:** Users can view detailed information about the products, including price, available colors, and sizes.
 - **Online Checkout:** Secure checkout process with personal information and payment details.
